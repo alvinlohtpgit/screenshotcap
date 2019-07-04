@@ -1,0 +1,21 @@
+{
+  "name": "screenshotcap",
+  "version": "1.0.0",
+  "description": "This package is a wrapper for ScreenShotLayer API calls which allows you to easily capture screenshots of any webpages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "screenshotlayer",
+    "webpage",
+    "screenshot",
+    "webpage",
+    "capture"
+  ],
+  "author": "Alvin Loh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
