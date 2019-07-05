@@ -1,6 +1,6 @@
 {
   "name": "screenshotcap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package is a wrapper for ScreenShotLayer API calls which allows you to easily capture screenshots of any webpages",
   "main": "index.js",
   "scripts": {
